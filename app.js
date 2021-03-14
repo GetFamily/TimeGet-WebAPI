@@ -29,8 +29,10 @@ app.use('/todos', todosRouter);
 app.use('/occasions', occasionsRouter);
 
 // This is REQUIRED for IISNODE to work
-app.listen(process.env.PORT, () => {
-  console.log("listening");
-});
+if (process.env.PORT) {
+  app.listen(process.env.PORT, () => {
+    console.log(`listening on ${process.env.PORT}`);
+  });
+}
 
 module.exports = app;
