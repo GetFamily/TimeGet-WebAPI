@@ -1,0 +1,2 @@
+listening on \\.\pipe\4e4e56ed-9f92-4eec-ba48-d847396c7f40
+[0mGET /occasions [33m400 [0m73.184 ms - 1088[0m

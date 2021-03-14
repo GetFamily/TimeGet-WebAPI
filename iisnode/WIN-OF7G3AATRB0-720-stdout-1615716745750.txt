@@ -1,0 +1,27 @@
+listening on \\.\pipe\1595e04a-3209-49f1-9447-5563c025462e
+[0mGET /occasions [32m200 [0m162.953 ms - 327617[0m
+[0mGET /favicon.ico [32m200 [0m6.827 ms - 2143[0m
+[0mGET / [36m304 [0m3.149 ms - -[0m
+[0mGET /css/app.8b5eb1e9.css [36m304 [0m2.557 ms - -[0m
+[0mGET /js/chunk-vendors.560e9f50.js [36m304 [0m8.537 ms - -[0m
+[0mGET /js/app.8cd39314.js [36m304 [0m8.179 ms - -[0m
+[0mGET /css/articles.4e430fe0.css [36m304 [0m4.542 ms - -[0m
+[0mGET /css/getting-pregnant.4e430fe0.css [36m304 [0m1.618 ms - -[0m
+[0mGET /css/hadithes.4e430fe0.css [36m304 [0m0.730 ms - -[0m
+[0mGET /css/ladies.4e430fe0.css [36m304 [0m0.830 ms - -[0m
+[0mGET /css/resource-introduction.4e430fe0.css [36m304 [0m0.972 ms - -[0m
+[0mGET /css/religious_moments.4e430fe0.css [36m304 [0m0.535 ms - -[0m
+[0mGET /css/pregnancy.4e430fe0.css [36m304 [0m0.381 ms - -[0m
+[0mGET /js/articles.c8a54c83.js [36m304 [0m0.764 ms - -[0m
+[0mGET /img/previous-next-icon.b5834163.png [36m304 [0m1.332 ms - -[0m
+[0mGET /img/android-chrome-512x512.png [32m200 [0m4.964 ms - 6441[0m
+[0mGET /occasions?year=1399&month=12 [32m200 [0m833.083 ms - 13359[0m
+[0mGET /js/hadithes.b75239c8.js [36m304 [0m1.045 ms - -[0m
+[0mGET /js/getting-pregnant.f9b072c5.js [36m304 [0m0.625 ms - -[0m
+[0mGET /occasions?year=1399&month=12&day=24 [32m200 [0m1205.117 ms - 2[0m
+[0mGET /js/ladies.bf578e8e.js [36m304 [0m1.017 ms - -[0m
+[0mGET /js/religious_moments.ff46fd8c.js [36m304 [0m1.238 ms - -[0m
+[0mGET /js/pregnancy.67190189.js [36m304 [0m0.635 ms - -[0m
+[0mGET /js/resource-introduction.3adc44f4.js [32m200 [0m1.903 ms - 842[0m
+[0mGET /fonts/IRANSansWeb(FaNum)_Bold.924be0f8.woff2 [36m304 [0m6.169 ms - -[0m
+[0mGET /fonts/IRANSansWeb(FaNum).38d4b5fb.woff2 [36m304 [0m4.355 ms - -[0m

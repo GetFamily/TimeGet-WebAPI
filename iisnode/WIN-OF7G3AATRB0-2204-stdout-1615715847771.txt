@@ -1,0 +1,5 @@
+listening on \\.\pipe\4240b746-e4d4-4ad0-98fa-ab287d0c73a9
+[0mGET /occasions [33m400 [0m46.661 ms - 1088[0m
+[0mGET /favicon.ico [32m200 [0m5.212 ms - 2143[0m
+[0mGET /occasions [33m400 [0m70.060 ms - 1088[0m
+[0mGET /favicon.ico [32m200 [0m6.745 ms - 2143[0m
