@@ -24,9 +24,15 @@ app.use(express.static(path.join(__dirname, 'public')));
 //     res.send("Hello Worlxxxxd!");
 // });
 app.use('/', indexRouter);
-app.use('/users', usersRouter);
-app.use('/todos', todosRouter);
-app.use('/occasions', occasionsRouter);
+router.get('/api/test', function (req, res, next) {
+  res.send({
+    date: new Date(),
+    message: 'I am alive.',
+  });
+});
+app.use('/api/users', usersRouter);
+app.use('/api/todos', todosRouter);
+app.use('/api/occasions', occasionsRouter);
 
 // This is REQUIRED for IISNODE to work
 if (process.env.PORT) {
