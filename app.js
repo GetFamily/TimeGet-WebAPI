@@ -24,7 +24,7 @@ app.use(express.static(path.join(__dirname, 'public')));
 //     res.send("Hello Worlxxxxd!");
 // });
 app.use('/', indexRouter);
-router.get('/api/test', function (req, res, next) {
+app.get('/api/test', function (req, res, next) {
   res.send({
     date: new Date(),
     message: 'I am alive.',
