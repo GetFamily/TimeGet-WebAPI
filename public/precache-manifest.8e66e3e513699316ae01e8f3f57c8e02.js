@@ -1,11 +1,15 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "59e28d26c2d8f1178649",
-    "url": "/css/app.f80204dc.css"
+    "revision": "3be9417041fcb1800e8e",
+    "url": "/css/app.068c5556.css"
   },
   {
     "revision": "a1bb7f34008664f27e4f",
     "url": "/css/articles.4e430fe0.css"
+  },
+  {
+    "revision": "bee8cac42fb9e8151fd7",
+    "url": "/css/chunk-vendors.e7b3aeb6.css"
   },
   {
     "revision": "4a2dac800b44e3d284aa",
@@ -16,7 +20,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/css/hadithes.4e430fe0.css"
   },
   {
-    "revision": "09709e49b01bdebc5478",
+    "revision": "a5120fcc49b19379b618",
     "url": "/css/ladies.4e430fe0.css"
   },
   {
@@ -128,6 +132,86 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/fonts/IRANSansWeb(FaNum)_UltraLight.b543a9ad.woff2"
   },
   {
+    "revision": "38ccfceee9c33469a63d1f9b09a217b3",
+    "url": "/fonts/MaterialIcons-Regular.38ccfcee.woff"
+  },
+  {
+    "revision": "53354891569c4a0ce30290fbbf016e61",
+    "url": "/fonts/MaterialIcons-Regular.53354891.woff2"
+  },
+  {
+    "revision": "73fdcbd05486ade5fe83a640c950980c",
+    "url": "/fonts/MaterialIcons-Regular.73fdcbd0.ttf"
+  },
+  {
+    "revision": "e5c85c48e81d5adf4c86b5804f7bbe0a",
+    "url": "/fonts/MaterialIcons-Regular.e5c85c48.eot"
+  },
+  {
+    "revision": "0eef356ecbfcedc915fec42bb6044495",
+    "url": "/fonts/MaterialIconsOutlined-Regular.0eef356e.woff2"
+  },
+  {
+    "revision": "26323efe789f62aae3ce10ec8a3b8b3c",
+    "url": "/fonts/MaterialIconsOutlined-Regular.26323efe.woff"
+  },
+  {
+    "revision": "379859539672fc072b9043249bb14d71",
+    "url": "/fonts/MaterialIconsOutlined-Regular.37985953.otf"
+  },
+  {
+    "revision": "e08df6c357080448e12bafab8f3b01d4",
+    "url": "/fonts/MaterialIconsOutlined-Regular.e08df6c3.eot"
+  },
+  {
+    "revision": "08704c67528c44710a07c9606269e8e5",
+    "url": "/fonts/MaterialIconsRound-Regular.08704c67.woff2"
+  },
+  {
+    "revision": "19929a633810318efc9f0e3fa386b993",
+    "url": "/fonts/MaterialIconsRound-Regular.19929a63.woff"
+  },
+  {
+    "revision": "558d3be78ffce25ff5b06ef34f981c3d",
+    "url": "/fonts/MaterialIconsRound-Regular.558d3be7.eot"
+  },
+  {
+    "revision": "ced111eeb90f492182c5ab18fbd1dbdd",
+    "url": "/fonts/MaterialIconsRound-Regular.ced111ee.otf"
+  },
+  {
+    "revision": "1b5597741a649801373224708a2842ae",
+    "url": "/fonts/MaterialIconsSharp-Regular.1b559774.woff2"
+  },
+  {
+    "revision": "2ff06921f444f2f42ef2b772f4528dc0",
+    "url": "/fonts/MaterialIconsSharp-Regular.2ff06921.eot"
+  },
+  {
+    "revision": "71f1fb13a4f76e46bb62dd3b90ab2c53",
+    "url": "/fonts/MaterialIconsSharp-Regular.71f1fb13.otf"
+  },
+  {
+    "revision": "f73509d26345aedc404144b33aff830a",
+    "url": "/fonts/MaterialIconsSharp-Regular.f73509d2.woff"
+  },
+  {
+    "revision": "008fd8b0173d6af102f540569463aaba",
+    "url": "/fonts/MaterialIconsTwoTone-Regular.008fd8b0.woff"
+  },
+  {
+    "revision": "a4ef23f36deb59b1f7fab3b3fc8363dd",
+    "url": "/fonts/MaterialIconsTwoTone-Regular.a4ef23f3.eot"
+  },
+  {
+    "revision": "aea129f1bad2a15c470c5e0cfb81b9e6",
+    "url": "/fonts/MaterialIconsTwoTone-Regular.aea129f1.otf"
+  },
+  {
+    "revision": "aefd565feffa18e78fc46a53ba4f26d9",
+    "url": "/fonts/MaterialIconsTwoTone-Regular.aefd565f.woff2"
+  },
+  {
     "revision": "76ccefece305bf6bab426f04f07f870b",
     "url": "/fonts/iranyekanwebblack.76ccefec.woff"
   },
@@ -200,20 +284,20 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/img/site.webmanifest"
   },
   {
-    "revision": "e447d1989d7afad2975dc74a9b611f58",
+    "revision": "422e038e9e40893227a74b73c7f8db41",
     "url": "/index.html"
   },
   {
-    "revision": "59e28d26c2d8f1178649",
-    "url": "/js/app.a65d9fd6.js"
+    "revision": "3be9417041fcb1800e8e",
+    "url": "/js/app.2bf31a27.js"
   },
   {
     "revision": "a1bb7f34008664f27e4f",
     "url": "/js/articles.c8a54c83.js"
   },
   {
-    "revision": "7aae187aab9b4d5e7fea",
-    "url": "/js/chunk-vendors.d151face.js"
+    "revision": "bee8cac42fb9e8151fd7",
+    "url": "/js/chunk-vendors.ca49e5af.js"
   },
   {
     "revision": "4a2dac800b44e3d284aa",
@@ -224,8 +308,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/js/hadithes.b75239c8.js"
   },
   {
-    "revision": "09709e49b01bdebc5478",
-    "url": "/js/ladies.bf578e8e.js"
+    "revision": "a5120fcc49b19379b618",
+    "url": "/js/ladies.727303dc.js"
   },
   {
     "revision": "1ff01c4549c2adcb7f72",
