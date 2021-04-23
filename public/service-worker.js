@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/precache-manifest.a310ae16688ff0d04bdece7f9adeb472.js"
+  "/precache-manifest.78ab0741a5a853f8f337ad6a4b4b7ad7.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "timeget-webclient"});
