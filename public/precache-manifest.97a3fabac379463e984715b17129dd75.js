@@ -1,18 +1,18 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "3be9417041fcb1800e8e",
-    "url": "/css/app.068c5556.css"
+    "revision": "5c33f1628ba0317a4421",
+    "url": "/css/app.7fd6ddc5.css"
   },
   {
     "revision": "a1bb7f34008664f27e4f",
     "url": "/css/articles.4e430fe0.css"
   },
   {
-    "revision": "bee8cac42fb9e8151fd7",
+    "revision": "b7d1b6dfbc59b9eb8ec0",
     "url": "/css/chunk-vendors.e7b3aeb6.css"
   },
   {
-    "revision": "4a2dac800b44e3d284aa",
+    "revision": "37bb38998f61b3d4940a",
     "url": "/css/getting-pregnant.4e430fe0.css"
   },
   {
@@ -28,12 +28,20 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/css/pregnancy.4e430fe0.css"
   },
   {
-    "revision": "b4e0fbaea2e53ba61ba6",
+    "revision": "3caa052b0c0e5223cf19",
     "url": "/css/religious_moments.4e430fe0.css"
   },
   {
     "revision": "1c6ca920389f3e9d563d",
     "url": "/css/resource-introduction.4e430fe0.css"
+  },
+  {
+    "revision": "5cd5c3bcf1bc67698622",
+    "url": "/css/timer.24c126d2.css"
+  },
+  {
+    "revision": "fa1a01b7a91c0b7a493c",
+    "url": "/css/weather.4e430fe0.css"
   },
   {
     "revision": "07e13ce12b31374a49045aa55af2c0ad",
@@ -284,24 +292,24 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/img/site.webmanifest"
   },
   {
-    "revision": "422e038e9e40893227a74b73c7f8db41",
+    "revision": "b02052782dea7e53dd82829f623fbf1e",
     "url": "/index.html"
   },
   {
-    "revision": "3be9417041fcb1800e8e",
-    "url": "/js/app.2bf31a27.js"
+    "revision": "5c33f1628ba0317a4421",
+    "url": "/js/app.cd9c3a06.js"
   },
   {
     "revision": "a1bb7f34008664f27e4f",
     "url": "/js/articles.c8a54c83.js"
   },
   {
-    "revision": "bee8cac42fb9e8151fd7",
-    "url": "/js/chunk-vendors.ca49e5af.js"
+    "revision": "b7d1b6dfbc59b9eb8ec0",
+    "url": "/js/chunk-vendors.fc65b8bb.js"
   },
   {
-    "revision": "4a2dac800b44e3d284aa",
-    "url": "/js/getting-pregnant.f9b072c5.js"
+    "revision": "37bb38998f61b3d4940a",
+    "url": "/js/getting-pregnant.6e4c2006.js"
   },
   {
     "revision": "950990bcbed9773d0fa1",
@@ -316,12 +324,20 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/js/pregnancy.67190189.js"
   },
   {
-    "revision": "b4e0fbaea2e53ba61ba6",
-    "url": "/js/religious_moments.ff46fd8c.js"
+    "revision": "3caa052b0c0e5223cf19",
+    "url": "/js/religious_moments.1269a6ff.js"
   },
   {
     "revision": "1c6ca920389f3e9d563d",
     "url": "/js/resource-introduction.3adc44f4.js"
+  },
+  {
+    "revision": "5cd5c3bcf1bc67698622",
+    "url": "/js/timer.7487051d.js"
+  },
+  {
+    "revision": "fa1a01b7a91c0b7a493c",
+    "url": "/js/weather.f4b0adfe.js"
   },
   {
     "revision": "4607e6d614bf8dbe8d5318255a7dffff",
