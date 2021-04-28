@@ -1,46 +1,46 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "4e10e2d19ad4d1aa8e55",
+    "revision": "dbc940471cc666f01f09",
     "url": "/css/app.7fd6ddc5.css"
   },
   {
-    "revision": "a1bb7f34008664f27e4f",
+    "revision": "5dde1806cbe97e0173a1",
     "url": "/css/articles.4e430fe0.css"
   },
   {
-    "revision": "ddf22191afaf26ece54c",
+    "revision": "31b8ec687663ab1c5b69",
     "url": "/css/chunk-vendors.e7b3aeb6.css"
   },
   {
-    "revision": "37bb38998f61b3d4940a",
+    "revision": "a10deb2ba0648ce70467",
     "url": "/css/getting-pregnant.4e430fe0.css"
   },
   {
-    "revision": "950990bcbed9773d0fa1",
+    "revision": "8a0768b23ca202677d1b",
     "url": "/css/hadithes.4e430fe0.css"
   },
   {
-    "revision": "a5120fcc49b19379b618",
+    "revision": "236115968af9e775c2d4",
     "url": "/css/ladies.4e430fe0.css"
   },
   {
-    "revision": "1ff01c4549c2adcb7f72",
+    "revision": "9e9b7c509fc98485e511",
     "url": "/css/pregnancy.4e430fe0.css"
   },
   {
-    "revision": "3caa052b0c0e5223cf19",
+    "revision": "5ffa67bea869df3b80f9",
     "url": "/css/religious_moments.4e430fe0.css"
   },
   {
-    "revision": "1c6ca920389f3e9d563d",
+    "revision": "388a6e920c8d1bb1d56d",
     "url": "/css/resource-introduction.4e430fe0.css"
   },
   {
-    "revision": "5eb3b77f14d25ed3c185",
-    "url": "/css/timer.bcd4101c.css"
+    "revision": "cf0d2c5491d3d3889231",
+    "url": "/css/timer.57e940b3.css"
   },
   {
-    "revision": "fa1a01b7a91c0b7a493c",
+    "revision": "ff5f6f5289be6232c111",
     "url": "/css/weather.4e430fe0.css"
   },
   {
@@ -292,52 +292,52 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/img/site.webmanifest"
   },
   {
-    "revision": "400ddb76ddb4edc651dbcae95bfa7c8c",
+    "revision": "fc387e171c5ae5979e655a2b44f369ae",
     "url": "/index.html"
   },
   {
-    "revision": "4e10e2d19ad4d1aa8e55",
-    "url": "/js/app.153eb818.js"
+    "revision": "dbc940471cc666f01f09",
+    "url": "/js/app.09044d52.js"
   },
   {
-    "revision": "a1bb7f34008664f27e4f",
-    "url": "/js/articles.c8a54c83.js"
+    "revision": "5dde1806cbe97e0173a1",
+    "url": "/js/articles.5651022c.js"
   },
   {
-    "revision": "ddf22191afaf26ece54c",
-    "url": "/js/chunk-vendors.0c37fd7e.js"
+    "revision": "31b8ec687663ab1c5b69",
+    "url": "/js/chunk-vendors.aba32c54.js"
   },
   {
-    "revision": "37bb38998f61b3d4940a",
-    "url": "/js/getting-pregnant.6e4c2006.js"
+    "revision": "a10deb2ba0648ce70467",
+    "url": "/js/getting-pregnant.0f79e899.js"
   },
   {
-    "revision": "950990bcbed9773d0fa1",
-    "url": "/js/hadithes.b75239c8.js"
+    "revision": "8a0768b23ca202677d1b",
+    "url": "/js/hadithes.59bd7911.js"
   },
   {
-    "revision": "a5120fcc49b19379b618",
-    "url": "/js/ladies.727303dc.js"
+    "revision": "236115968af9e775c2d4",
+    "url": "/js/ladies.be06bfd8.js"
   },
   {
-    "revision": "1ff01c4549c2adcb7f72",
-    "url": "/js/pregnancy.67190189.js"
+    "revision": "9e9b7c509fc98485e511",
+    "url": "/js/pregnancy.a2521d20.js"
   },
   {
-    "revision": "3caa052b0c0e5223cf19",
-    "url": "/js/religious_moments.1269a6ff.js"
+    "revision": "5ffa67bea869df3b80f9",
+    "url": "/js/religious_moments.fa45bb37.js"
   },
   {
-    "revision": "1c6ca920389f3e9d563d",
-    "url": "/js/resource-introduction.3adc44f4.js"
+    "revision": "388a6e920c8d1bb1d56d",
+    "url": "/js/resource-introduction.30dce1b9.js"
   },
   {
-    "revision": "5eb3b77f14d25ed3c185",
-    "url": "/js/timer.d8d4a4a1.js"
+    "revision": "cf0d2c5491d3d3889231",
+    "url": "/js/timer.4c9eecc8.js"
   },
   {
-    "revision": "fa1a01b7a91c0b7a493c",
-    "url": "/js/weather.f4b0adfe.js"
+    "revision": "ff5f6f5289be6232c111",
+    "url": "/js/weather.e2419774.js"
   },
   {
     "revision": "4607e6d614bf8dbe8d5318255a7dffff",
